@@ -1,0 +1,15 @@
+{
+  "title": "hugo zap",
+  "url": "https://www.hugozap.com",
+  "description": "Projects, writings, random stuff",
+  "feed": {
+    "subtitle": "Hugo Zapata blog.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://hugozap.com/"
+  },
+  "author": {
+    "name": "Hugo Zapata",
+    "email": ""
+  }
+}
