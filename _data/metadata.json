@@ -1,7 +1,7 @@
 {
-  "title": "hugo zap",
+  "title": "Removing layers",
   "url": "https://www.hugozap.com",
-  "description": "Projects, writings, random stuff",
+  "description": "A collection of random notes about life",
   "feed": {
     "subtitle": "Hugo Zapata blog.",
     "filename": "feed.xml",
@@ -10,6 +10,6 @@
   },
   "author": {
     "name": "Hugo Zapata",
-    "email": ""
+    "email": "hugozap@gmail.com"
   }
 }
