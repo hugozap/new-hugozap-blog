@@ -1,5 +1,28 @@
 # eleventy-base-blog
 
+# Nota referenciar otro post
+
+
+<a href="{{ '/posts/firstpost/' | url }}">First post</a>
+<a href="{{ '/posts/thirdpost/' | url }}">Third post</a>
+
+# Notas resaltar lineas codigo
+
+Se puede usar /2/4 para lineas separadas o /2-4 para el rango de 2 a 4
+
+``` js/2/4
+// this is a command
+function myCommand() {
+	let counter = 0;
+
+	counter++;
+
+}
+
+// Test with a line break above this line.
+console.log('Test');
+
+
 A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
 [![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)

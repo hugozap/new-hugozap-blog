@@ -9,13 +9,11 @@ eleventyNavigation:
 
 Hi, I'm Hugo.
 
-I'm the creator of [Diagram Codes](https://diagram.codes)
-and other tools.
+I'm the creator of [Diagram Codes](https://diagram.codes) and other tools.
 
-I like to build stuff, mostly digital.
+I like to build stuff, mostly digital. 
 
-I started [Volare Labs](https://volarelabs.co) with the goal
-of crystallizing ideas, building cool products and have fun.
+I started [Volare Labs](https://volarelabs.co) with the goal of crystallizing ideas, building cool products and have fun.
 
 Some of the things I'm currently interested in:
 

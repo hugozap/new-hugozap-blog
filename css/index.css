@@ -15,9 +15,12 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: system-ui, sans-serif;
+  font-family:'IBM Plex sans', system-ui, sans-serif;
   color: var(--darkgray);
-  background-color: var(--white);
+  background-color: rgb(255, 254, 247);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 p:last-child {
   margin-bottom: 0;
@@ -39,6 +42,7 @@ a[href]:visited {
 }
 main {
   padding: 1rem;
+
 }
 main :first-child {
   margin-top: 0;
@@ -223,4 +227,16 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+.studio-notice {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.studio-notice a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
 }
