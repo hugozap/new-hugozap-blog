@@ -1,5 +1,5 @@
 ---
-title: The ultimate note taking platform.
+title: Email: The ultimate note taking platform (for me).
 description: Why using email to capture notes is a great idea.
 date: 2020-04-24
 tags:
@@ -9,11 +9,18 @@ layout: layouts/post.njk
 
 A few years ago I stopped using note taking applications and switched to email for my information capturing needs and it works.
 
-Without mucht thought I began sending emails to myself with quick notes, quotes or whatever I wanted to keep instead of using custom note taking apps. 
+I started to get used to the workflow of sending emails myself with notes and links. Searching for a note was easy and didn't miss any advanced feature of note apps. I used my personal email account and have automatic filters to add any email coming from myself the tag "notebook".
+
+Some time later, convinced I liked this approach I created a separate email account just for the notes,quotes, links etc.
+
+
+Some of the reasos I like this approach
 
 ## Simplicity
 
 Email is simple, the user interface is well known and it just works. If I find something useful on the internet highlighting and sending it to my email will always work, it's fast and reliable.
+
+I like to review my notes from time to time and the cognitive load feels less than using other UI's.
 
 ## Available everywhere
 
@@ -42,6 +49,7 @@ You can't modify messages and that's ok, If I need to add something else I'll se
 
 * Have a separate email account
 * Use the native email client of your platform.
+* Having a convention for the title (mail subject) helps but not really required.
 
 ### Have a separate email account
 
@@ -56,5 +64,7 @@ If you setup your windows or mac email client now you have offline access to you
 
 ## When does it make sense to keep using specific note apps?
 
-I've notice that some users are ver organized and have notebooks that are just beautiful. I'm not one of those persons, I tend to collect information from everywhere and just want to send it somewhere so I can find them easily in the future, that's why search is more important for me, but I definetely see traditional note taking apps being useful to people that are naturally organized (not me)
+I've notice that some users are ver organized and have notebooks that are just beautiful. I'm not one of those persons, I tend to collect information from everywhere and just want to send it somewhere so I can find them easily in the future, that's why search is more important for me, but I definetely see traditional note taking apps being useful to people that are organized or using it to create structured content.
+
+
 
