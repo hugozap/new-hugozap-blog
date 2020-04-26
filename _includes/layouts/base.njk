@@ -14,7 +14,18 @@
     />
   </head>
   <body>
+
+    <div class="studio-notice warning">
+        <span class="latestlabel">Latest</span>
+        <a href="https://studio.diagram.codes">
+        <img width="20px" height="auto" src="/img/diagramcodes.png"/>
+        From text to diagrams in seconds! &nbsp;Diagram Codes Studio available.
+       </a>
+        
+      </div>
+
     <header>
+      
       
 
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
@@ -26,14 +37,7 @@
     </header>
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-      <div class="studio-notice warning">
-        <a href="https://studio.diagram.codes">
-        <img width="40px" height="auto" src="/img/diagramcodes.png"/>
-        From text to diagrams in seconds! &nbsp;Diagram Codes Studio available.
-
-       </a>
-        
-      </div>
+      
 
       {{ content | safe }}
     </main>

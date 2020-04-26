@@ -229,14 +229,29 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
+
+.latestlabel {
+  font-style: italic;
+  padding-right: 1rem;
+}
+
 .studio-notice {
   display:flex;
   flex-direction: row;
   align-items: center;
+  width: 100%;
 }
 
 .studio-notice a {
   display: flex;
   flex-direction: row;
   align-items: center;
+}
+
+.studio-notice a img {
+  padding-right: 0.5rem;
+}
+
+header {
+  width: 100%;
 }
