@@ -62,7 +62,7 @@ For normal email I tend to use the web interface more, but for the "notebook" ma
 
 ## For structured notes, traditional note apps are better.
 
-This approach fits better for collecting data. I don't have organized books and my data collection patterns are more chaotic so a vault with good search works for me, but for study or other type of structured data collection activities this approach may not be great.
+This approach fits better for collecting data. I don't have organized notebooks and my data collection patterns are more chaotic so a vault with good search works for me, but for study or other type of structured data collection activities this approach may not be great.
 
 
 
