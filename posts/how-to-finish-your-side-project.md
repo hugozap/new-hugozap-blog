@@ -21,7 +21,7 @@ At the beginning:
 
 - High motivation.
 - Priority over other tasks.
-- Work long hours because it's really fun.
+- Working long hours because it's fun.
 - Desire to work with a new technology
 - No problem working on weekends.
 
