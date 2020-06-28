@@ -11,7 +11,7 @@ It's not secret that finishing a side project is hard.
 
 I've struggled with some side projects and had success with others. In this post I'll try to ellaborate on what worked based on my experience.
 
-It is possible to work on and finish side projects even with a busy schedule, the key is to optimize for interruptability. You will be interrupted so instead of counting on having hours of deep work available, it's better to be realistic and make some adjustments so the available time can be more efficient. 
+It is possible to work on and finish side projects even with a busy schedule, the key is to optimize for interruptability. You will be interrupted so instead of counting on having hours of deep work available, it's better to be realistic and make some adjustments to use available time in a better way and reducing the cost of interruptions by having tricks to switch context fast. 
 
 ## A failed side project story
 
@@ -68,33 +68,31 @@ Now that you have a clear idea of what you want to finish, there's some actions 
 
 ## Small steps are key
 
-I like the idea of having not having too many open boxes at the same time, where each box is a task/feature or something that you  started but haven't finished yet.
+I like the idea of not having too many open boxes at the same time, where each box is a task/feature or something that you  started but haven't finished yet.
 
-It's demoralizing to wait weeks or months for a win. Small steps give you small wins and that makes the journey sustainable, specially in terms of motivation.
+It's demoralizing to wait weeks or months for a win. Small steps give you small wins, it keeps the journey fun. There's less change of feeling stuck. 
 
-[Geepaw Hill](https://www.geepawhill.org/2020/06/26/more-on-small-steps/) shares excellent resources on the topic.
+[Geepaw Hill](https://www.geepawhill.org/2020/06/26/more-on-small-steps/) shares excellent resources on the topic of small steps in software.
 
 ## Warming up before each session to reduce cognitive exhaustion
 
 Before starting actual work, write about what would be good to achieve in the session. I find this ritual valuable as it helps me detect the next small step. Writing the project goal (high level) is also a good way to switch context.
 
-I'll talk about having a "context" log, where you write the current progress and what to do next. If you have this file, reading the previous session log is also part of the warm up and a great way to start your work session.
+I'll talk about having a "context" log, where you write the current progress and what to do next. If you have this file, reading the previous session log let's you resume your work faster.
 
 ## Immediate context switching
 
-With the limited amout of mental energy, is crucial to reduce the number of setup tasks required to do a working session on your project.
+With the limited amout of mental energy, is crucial to reduce the number of setup tasks required to do a working session on your project. The goal here is reducing the number of small decisions you have to make to have a working environment.
 
 This is one of the most important things for me, and the way I approach it is:
 
-- Creating a separated system User on my laptop
-- Signing up for a new email address only for my project
+- Creating a separated system User on my laptop.
+- Having an email address only for my project.
 - Having a "context" file where I log what's currently happening with my project, usually at the end of a work session.
 
 These have been valuable tools for me, let me explain why:
 
-### Having a separate system user
-
-(Or even better, having a separate dev machine if possible)
+### A separate system user for your side project
 
 By creating a separate user, you automatically have all the operative system tools (calendar/notes/reminders etc.) available ONLY for your project.
 
@@ -127,7 +125,7 @@ Not sure about why, but using the same desk for different work and side projects
 
 ## Abandoned projects may not be a failure after all.
 
-Some abandoned projects end up being inspiration to create something else years later. Maybe you learnt something new, explored an idea or found a problem not possible to solve with your current knowledge and resources.
+Some abandoned projects end up being inspiration to create something else years later. Maybe you learnt something new, explored an idea or found a problem not possible to solve with the knowledge and resources you had at the time.
 
 It's good to have an open mind and be ok with finding dead-ends, they are powerful teachers.
 
