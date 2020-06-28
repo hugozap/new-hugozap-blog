@@ -3,7 +3,7 @@ title: How to finish your side project.
 description: Challenges and tips to ship v1 of your side project.
 date: 2020-04-24
 tags:
-  - information,productivity
+  - information, productivity
 layout: layouts/post.njk
 ---
 
