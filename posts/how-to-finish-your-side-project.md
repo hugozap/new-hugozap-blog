@@ -7,39 +7,39 @@ tags:
 layout: layouts/post.njk
 ---
 
-It's not secret that finishing a side project is hard.
+It's no secret that finishing a side project is hard.
 
-I've struggled with some side projects and had success with others. In this post I'll try to ellaborate on what worked based on my experience.
+I've struggled with some side projects and had success with others. In this post, I'll focus on the actions and adjustments that have worked for me.
 
-It is possible to work on and finish side projects even with a busy schedule, the key is to optimize for interruptability. You will be interrupted so instead of counting on having hours of deep work available, it's better to be realistic and make some adjustments to use available time in a better way and reducing the cost of interruptions by having tricks to switch context fast. 
+It's possible to work on and finish side projects even with a busy schedule, the key is to optimize for interruptability. You will be interrupted so instead of counting on having hours of deep work available, it's better to be realistic and make some adjustments to use available time in a better way and reducing the cost of interruptions by having tricks to switch context fast. 
 
 ## A failed side project story
 
 Maybe you are familiar with a similar situation
 
-At the beggining:
+At the beginning:
 
-- Lot's of motivation.
-- Put everything else aside.
+- High motivation.
+- Priority over other tasks.
 - Work long hours because it's really fun.
-- It's easy to choose working on the project instead of doing other stuff (much more exciting).
-- Burning desire to work with a new technology
+- Desire to work with a new technology
+- No problem working on weekends.
 
 After some time:
 
-- Time to work on less exciting parts.
 - Motivation decreases.
-- Harder to justify working on the project.
+- Feels overwheelming.
+- Harder to justify working on the project when there are other responsibilities.
 - Other stuff seems more interesting now.
-- Forgot how to set things up to continue working on the project, too much work required just to start and less mental energy available.
-- Forget about it, or start a new side project...
+- Forgot how to set things up to continue working on the project.
+- Not sure what I was working on.
+- Forgetting about the project and archiving it.
 
-## The challenges with side projects:
+## The challenges with side projects
 
-- Context switching and high cognitive load.
-- **Losing interest / motivation**.
-- Perfectionism / never ending projects.
-- Mental exhaustion / burnout.
+- Context switching and high cognitive load is exhausting.
+- **Losing interest/ motivation**.
+- Perfectionism - never ending projects.
 - Impostor syndrome.
 - Lack of focus.
 - Lack of time.
@@ -47,11 +47,13 @@ After some time:
 
 ## Re framing the goal
 
-I believe you can set yourself for failure from the start if the goal is not clear or not strong enough. 
+I believe you can set yourself for failure from the start if the goal is not clear. 
 
-Feeling overwhelemed can also contribute to abandoning the project, I'll talk about **small steps** and why it's key.
+I've been excited about ideas but later found that I was not really invested in the idea and just wanted to explore a cool feature/tool. It's good to go deeper to your true motivation. 
 
-If your track record includes lot's of ambitious projects and none of them finished, then starting with something smaller seems like the logical approach. 
+Feeling overwhelmed can also contribute to abandoning the project, I'll talk about **small steps** and why it's key.
+
+If your track record includes lots of ambitious projects and none of them finished, then starting with something smaller seems like the logical approach. 
 
 Pick a small battle, maybe just the key feature first, maybe support for just one platform. Cut off features for the first version, remember that there's a lot of forces against you completing your project so reducing load is important.
 
@@ -61,10 +63,10 @@ Now that you have a clear idea of what you want to finish, there's some actions 
 
 - Preparing your environment (painless context switch)
 - Work in **Small steps**
-- Mental warm up before each session.
+- Mental warm-up before each session.
 - Anticipate and expect interruptions.
 - Changing your physical location.
-- Save your mental context after each session.
+- Writting down the ideas on your mind at the end of the session.
 
 ## Small steps are key
 
@@ -76,13 +78,13 @@ It's demoralizing to wait weeks or months for a win. Small steps give you small 
 
 ## Warming up before each session to reduce cognitive exhaustion
 
-Before starting actual work, write about what would be good to achieve in the session. I find this ritual valuable as it helps me detect the next small step. Writing the project goal (high level) is also a good way to switch context.
+Before starting actual work, write about what would be good to achieve in the session. I find this ritual valuable as it helps me figure out the next small step. Writing the project goal (high level) every session is also a good way to switch context and reminding yourself what's it all about.
 
-I'll talk about having a "context" log, where you write the current progress and what to do next. If you have this file, reading the previous session log let's you resume your work faster.
+I'll talk about having a "context" log, where you write the current progress, and what to do next. If you have this file, reading the previous session log let's you resume your work faster.
 
 ## Immediate context switching
 
-With the limited amout of mental energy, is crucial to reduce the number of setup tasks required to do a working session on your project. The goal here is reducing the number of small decisions you have to make to have a working environment.
+With the limited amount of mental energy, is crucial to reduce the number of setup tasks required to do a working session on your project. The goal here is reducing the number of small decisions you have to make to have a working environment.
 
 This is one of the most important things for me, and the way I approach it is:
 
@@ -94,27 +96,29 @@ These have been valuable tools for me, let me explain why:
 
 ### A separate system user for your side project
 
-By creating a separate user, you automatically have all the operative system tools (calendar/notes/reminders etc.) available ONLY for your project.
+By creating a separate user, you automatically have all the operative system tools (calendar/notes/reminders , etc.) available ONLY for your project.
 
-All the files on your desktop will have a relation to your project. This may not seem impresive but think about all the small distractions you find if you use the same user for your personal/work tasks:
+All the files on your desktop will have a relation to your project. This may not seem impressive but think about all the small distractions you find if you use the same user for your personal/work tasks:
 
 - Time to find a file (filtering unrelated stuff will bring memories of other things)
 - Reminders/calendar notifications not related to your project
-- Dealing with other project setups can be stresful.
+- Dealing with other project setups can be stressful.
 
-I think it was Seth Godin who recommended to have a separate laptop for a side project like writing a book. This is an alternative too.
+I think it was Seth Godin who recommended having a separate laptop for a side project like writing a book. This is an alternative too.
 
-You can add more extreme measures like redirecting distracting sites like news or reddit, I find that just by not logging into sites like twitter I'm protecting my concentration, I may have the reflex to go to twitter but having to login (and find my password on my password manager) is too much work and I don't do it.
+You can add more extreme measures like redirecting distracting sites like news or reddit. If you need to login to one of those sites, it's better to switch user accounts. Try to keep your project user clean.
 
 ### Having an separate email for your project
 
-I'm a fan of email as a note taking tool, it's available everywhere. Having a separate email account and configuring your client email has a main advantage, you can send yourself notes/ideas/links from any device. This has been useful for me when I'm doing something else and have an idea, or find a resource that can be used to do something I want to incorporate into the project.
+[I'm a fan of email](https://hugozap.com/posts/ultimate-info-capturing-tool/) as a note taking tool, it's available everywhere, the UI is simple. Having a separate email account lets you capture related notes/ideas/links from any device. This has been useful for me when I'm doing something else and have an idea, or find a resource that can be used to do something I want to incorporate into the project.
+
+Later, when I log in to my project environment I'll get check the emails with relevant information, no chance of getting distracted with other stuff.
 
 ### The context file, (brain dump).
 
 A context file is just a text file where you add a short summary of the current project status and what's on your mind at the time. 
 
-This has been valuable to me, because the act of writing it down helps me have a clear idea of things I could do next and next time I have time to work on my project I'll have an starting point and it reduces the cognitive load which maximizes the session efficiency.
+This has been valuable to me, because the act of writing it down helps me have a clear idea of things I could do next and next time I have time to work on my project I'll have a starting point and it reduces the cognitive load which maximizes the session efficiency.
 
 ## Location
 
@@ -125,11 +129,11 @@ Not sure about why, but using the same desk for different work and side projects
 
 ## Abandoned projects may not be a failure after all.
 
-Some abandoned projects end up being inspiration to create something else years later. Maybe you learnt something new, explored an idea or found a problem not possible to solve with the knowledge and resources you had at the time.
+Some abandoned projects end up being an inspiration to create something else years later. Maybe you learned something new, explored an idea, or found a problem not possible to solve with the knowledge and resources you had at the time.
 
 It's good to have an open mind and be ok with finding dead-ends, they are powerful teachers.
 
-However shipping projects is awesome and by reducing scope and anticipating interruptions you will be able to complete your project and release it to the world.
+However, shipping projects **is awesome** and by reducing scope and anticipating interruptions you will be able to complete your project and release it to the world.
 
 ## Resources
 
