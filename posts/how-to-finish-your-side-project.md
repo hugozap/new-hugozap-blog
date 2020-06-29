@@ -143,4 +143,4 @@ For more information about the benefits of a "small step" approach to software d
 
 ## Credits
 
-Illustration by [Angelica Delvalle](https://www.instagram.com/ylikdelvalle/) (If you need illustrations for your project hire her!, she does awesome stuff.)
+Illustration by [Angelica Delvalle](https://www.instagram.com/ylikdelvalle/) (In case you need art for your company products contact her, she does awesome stuff!)
