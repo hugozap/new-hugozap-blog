@@ -112,7 +112,7 @@ You can add more extreme measures like redirecting distracting sites like news o
 
 [I'm a fan of email](https://hugozap.com/posts/ultimate-info-capturing-tool/) as a note taking tool, it's available everywhere, the UI is simple. Having a separate email account lets you capture related notes/ideas/links from any device. This has been useful for me when I'm doing something else and have an idea, or find a resource that can be used to do something I want to incorporate into the project.
 
-Later, when I log in to my project environment I'll get check the emails with relevant information, no chance of getting distracted with other stuff.
+Later, when I log in to my project environment I'll get the emails with relevant information, no chance of getting distracted with other stuff.
 
 ### The context file, (brain dump).
 
