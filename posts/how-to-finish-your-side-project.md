@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-![Illustration by Angélica Delvalle IG: ylikdelvalle](/img/hands.png)
+![Illustration by Angélica Delvalle IG: ylikdelvalle](/img/hands.jpg)
 
 It's no secret that finishing a side project is hard.
 
