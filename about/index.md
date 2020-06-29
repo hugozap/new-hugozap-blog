@@ -13,7 +13,7 @@ I build tools for managing information.
 
 I'm currently working on the[Diagram Codes](https://diagram.codes) platform. A set of tools (Web and [Desktop](studio.diagram.codes)) for creating diagrams using a simple text language.
 
-You can find me on twitter: [https://twitter.com/hugozap](@hugozap)
+You can find me on twitter: [@hugozap](https://twitter.com/hugozap)
 
 
 
