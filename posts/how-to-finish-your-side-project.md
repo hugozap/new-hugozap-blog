@@ -7,6 +7,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+![Illustration by Angélica Delvalle IG: ylikdelvalle](/img/hands.png)
+
 It's no secret that finishing a side project is hard.
 
 I've struggled with some side projects and had success with others. In this post, I'll focus on the actions and adjustments that have worked for me.
@@ -138,3 +140,7 @@ However, shipping projects **is awesome** and by reducing scope and anticipating
 ## Resources
 
 For more information about the benefits of a "small step" approach to software development check the excellent resources from [Geepaw Hill](https://www.geepawhill.org/2020/06/26/more-on-small-steps/)
+
+## Credits
+
+Illustration by [Angelica Delvalle](https://www.instagram.com/ylikdelvalle/) (If you need illustrations for your project hire her!, she does awesome stuff.)
