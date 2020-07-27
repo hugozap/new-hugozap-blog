@@ -28,5 +28,4 @@ I'm still analyzing what works and what doesn't but I don't want to fall in the 
 ### Started learning French
 
 I'm exposing myself to a lot of french content, movies with audio and subtitles in French to French songs. I'm not good with structured courses so in this firs phase I'm just feeding my brain with sounds and getting familiar with words and situations. I'm surprised when I read something and get the main idea. I'd love to travel to France when possible and spend some time there practicing. Because my native language is Spanish there are a lot of similarities and that helps.
-
-Whoever reads this, I hope you are having a good time, exploring ideas and paths. 
+ 
