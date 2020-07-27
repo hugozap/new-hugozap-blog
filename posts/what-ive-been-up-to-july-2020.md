@@ -21,7 +21,7 @@ I've been switching from doing cloud stuff to frontend and iterating for the fir
 
 ## Other thoughts
 
-I'd like to write more. I've found writing to be therapeutic and an tool to organize the stream of thoughts. My [last essay](https://hugozap.com/posts/how-to-finish-your-side-project/) was very popular and now it's ben read by thousands of users after it was on the front page of Hacker News. I'm glad that so many people have found it useful, the process of writing it was non structured. I remember sitting and wanting to write something and after a few ideas, the text started to reveal itself. 
+I'd like to write more. I've found writing to be therapeutic and an tool to organize the stream of thoughts. My [last essay](https://hugozap.com/posts/how-to-finish-your-side-project/) was very popular and now it's been read by thousands of people after it was on the front page of Hacker News. I'm glad that so many people have found it useful, the process of writing it was non structured. I remember sitting and wanting to write something and after a few ideas, the text started to reveal itself. 
 
 I'm still analyzing what works and what doesn't but I don't want to fall in the trap of trying to satisfy an audience. I'm convinced that good writing is personal and genuine. And people notice.
 
