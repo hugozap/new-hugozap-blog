@@ -9,14 +9,13 @@ layout: layouts/post.njk
 I've seen some people arguing about how software development should be
 less "passion" and more science. Others argue about how similar
 software development and design is to a craft and how sterile it would
-be without art.
+be without consideration for aesthetics and elements of craftsmanship.
 
 If you pay attention to who says it it's easy to notice that both points of view
 come from different environments. One person working for a huge company may
 be thinking about the benefits of standards and automation and the benefits of formality.
 
-Another person is talking from a different place and looking at software as a means of expression. And the creative characteristics of the medium. Creating something
-that is used by others to augment their capacity to do something is awesome and the main motivator for a lot of authors.
+Another person is talking from a different place and looking at software as a means of expression and focused on the creative characteristics of the medium. Starting from an idea and quickly move to crystallization, without formalities is what drives a lot of people to work on software.
 
 Even if both perspectives seem distant, they share something in common. 
 They both start from the experience of the people doing the work.
@@ -27,7 +26,7 @@ separated from any deadline or commercial incentive.
 
 A relevant quote from [GeePaw Hill](https://www.geepawhill.org/2020/08/07/pedagogy-in-the-trade-changing-emphasis/)
 
-"There is no valid formal method for making and shipping software. If there were, humans would not be programming, computers would. Software making is irremediably, permanently, thoroughly, and happily dependent on individual humans using judgment."
+> There is no valid formal method for making and shipping software. If there were, humans would not be programming, computers would. Software making is irremediably, permanently, thoroughly, and happily dependent on individual humans using judgment."
 
 
 Isn't it interesting that even with the lack of structure, some of the core tools we use every day
