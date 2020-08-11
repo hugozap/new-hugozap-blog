@@ -1,5 +1,5 @@
 ---
-title: [WIP] On craft vs engineering, different cultures in software development and other knowledge-based activities.
+title: [WIP] Craft? Science? Different cultures in knowledge-based activities.
 description: Random ideas on coding, software cultures, crafting vs science.
 date: 2020-08-11
 tags:
