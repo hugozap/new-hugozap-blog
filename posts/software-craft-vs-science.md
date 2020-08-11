@@ -6,9 +6,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-
-# [WIP] On craft vs engineering, different cultures in software development and other knowledge-based activities.
-
 I've seen some people arguing about how software development should be
 less "passion" and more science. Others argue about how similar
 software development and design is to a craft and how sterile it would
