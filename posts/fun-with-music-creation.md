@@ -1,7 +1,7 @@
 ---
-title: Creating music with code
+title: Creating music
 description: 
-date: 2020-07-27
+date: 2021-01-21
 tags:
   - music
   - sound design
