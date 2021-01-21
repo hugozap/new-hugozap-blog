@@ -1,5 +1,5 @@
 ---
-title: How to actually ship your side projects
+title: On finishing and releasing personal projects
 description: Tips that have worked for me
 date: 2020-05-02
 tags:
@@ -7,7 +7,30 @@ tags:
 layout: layouts/post.njk
 ---
 
+Releasing a personal project is hard and satisfying. crystallizing an idea and maintaining focus and motivation for weeks, months or years is challenging. 
 
+For me, going through all the stages of a project is what makes personal projects valuable. You rarely have that opportunity in a big project for a company where conventions are already in place, decisions about technologies and project tools have been already made.
+
+That's why I think it's awesome to have a tool (programming/design/writing) to materialize ideas and creating personal projects is a great way to improve skills. You have to decide what's the scope, what tools and constraints you will use and find ways to sustain your motivation.
+
+In this post I'll talk about things that have worked for me .
+
+
+# "This is not even my final form"... Your idea
+
+- Saw something inspiring
+- Suddenly I want to experiment and create something
+- I started the exploration process and discover something else
+- Now, my focus shifted and I realized my real interest was pursuing idea B 
+
+
+# Starting is key
+
+Things get easier when you just start, that's true.
+We can spend a lot of time in our heads but its action what reveals new paths
+that wouldn't have been evident with just planning
+
+# Journaling is helpful for untangling thoughts
 
 # Finding dead ends
 
