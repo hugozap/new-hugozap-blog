@@ -9,7 +9,8 @@ layout: layouts/post.njk
 ---
 
 Someone posted on Reddit: "[NeedAdvice]  I never finish anything I start and no matter how many times I try, I always fail"
-I'll paste my answer here, may be useful for someone else:
+
+I'll leave my answer here in case someone else finds it useful:
 
 First, it's ok to NOT finish stuff. Trying new things is exciting (dopamine release) BUT looks like you are looking for something more meaningful. I can provide some advice as I have been through this in the past and have learned about the creative process.
 
