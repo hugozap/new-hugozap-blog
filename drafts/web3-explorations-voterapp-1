@@ -1,0 +1,27 @@
+---
+title: Web3 Explorations - Voting App 
+date: 2021-11-08
+tags:
+  - blockchain
+  - ethereum
+  - web3
+layout: layouts/post.njk
+---
+
+In this series I'm doing explorations with Web3 technologies. To get familiar with the toolchain I want to start with a simple application that allows a group of people to vote on some proposals. I'll start from the sample smart contract available on the Remix IDE (Ballot).
+
+### Setting up a local Ethereum network
+
+So there's this project called Ganache which creates an ethereum network locally with test accounts to test projects.
+
+
+- Download Ganache  and install it.
+- Create a new workspace 
+- Setup MetaMask to connect to the local network.
+
+I'm not sure about which Ethereum network to clone so I just chose Muirglacier.
+
+## Creating the node project.
+
+After setting up the local ethereum network is time to create the project where all the scripts and smart contracts will be located.
+
