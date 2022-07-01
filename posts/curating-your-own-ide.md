@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 A few months ago I realized that I was not enjoying my computing experience in general. I work as a software developer and little by little, my environment turned into a  slow, overwheelming and generally unpleasant place that didn't invite creativity.
 
-My common workflow involves opening Visual Studio Code, Jira and going through the daily tasks. I also like to have creative breaks and spend some time writing and thinking about ideas I would like to implement or just explore something cool or read about a cool essay I saw on HN and saved for later.
+My common workflow involves opening Visual Studio Code, Jira and going through the daily tasks. I also like to have creative breaks and spend some time writing and thinking about ideas I would like to implement or just explore something cool or read an essay I saw on HN and saved for later.
 
 Interacting with dozens of UI's everyday is taxing for my brain, each one has different  UI patterns and conventions and their quirks.
 
