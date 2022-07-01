@@ -40,7 +40,7 @@ A few years ago I tried Emacs for some time but ended up declaring bankruptcy, I
 
 I think Emacs is pretty cool if you try to understand its way of doing things.
 
-Emacs evangelists mention "discoverability" as a big advantage and I completely agree. After the initial learning curve one of the coolest things about it is that discovering new features is intuitive because of the way emacs group commands and stuff. So you keep learning while using it, that's something I didn't feel about my initial vim setup (or even VSCode)
+Emacs evangelists mention "discoverability" as a big advantage and I completely agree. After the initial learning curve one of the coolest things about it is that discovering new features is intuitive because of the way emacs group commands and stuff. So you keep learning while using it, that's something I didn't feel about my initial vim setup (or even VSCode) (I now wonder why **discoverability** is not something more tools strive for)
 
 So after getting some familiarity with the basic text movement commands (I'm not using evil mode for now) I started enjoying editing text with it.
 
