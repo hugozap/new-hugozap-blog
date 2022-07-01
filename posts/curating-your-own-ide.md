@@ -32,7 +32,7 @@ Also, I'd like to have muscular memory for the stuff I do frequently like:
 
 VSCode can do most of those (except maybe #3 hiding all the text in the current file with the exception of the fragment I'm editing but I'm sure there's a plugin for that)
 
-At first I gave vim a try, I know how to move around and do basic stuff. The problem is that customizing things was not pleasant for me. Even if modal editing is nice, I think it ranks low on my priorities.
+At first I gave vim a try, I know how to move around and do basic stuff. The problem is that customizing things was not pleasant for me. Even if modal editing is nice, I think it ranks low on my priorities and a more elegant way to customize stuff is more important to me.
 
 Next I gave Emacs a try and it clicked (pun non intended).
 
@@ -54,6 +54,8 @@ It's true that there's some learning curve and having an initial system properly
 The good thing about my new emacs based ide workflow is that it's very simple. Most of the time I'm only seeing the text I'm editing and that's it. I can use the `narrow` feature of emacs and "focus" only on the region I'm editing  and that's great, less stuff on the screen that's distracting me from my immediate goal. After finishing editing the region I press Control-x-n-w and I see all the file text again if I need to.
 
 There's very few icons, colors, etc. I now consider all of that unnecesary. It can look cool but in the end it can be wasting valuable mental cycles as my eyes tend to go to colorful things even if they have nothing to do with my task.
+
+I think emacs is "well proven boring software that works" and as I get older I have much more appreciation for things where my effort can compound over the long term (instead of re learning the same thing with different conventions again and again).
 
 
 ## It's all about removing micro distractions and making the tool work for you, not the opposite.
