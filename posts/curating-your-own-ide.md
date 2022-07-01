@@ -58,8 +58,23 @@ There's very few icons, colors, etc. I now consider all of that unnecesary. It c
 I think emacs is "well proven boring software that works" and as I get older I have much more appreciation for things where my effort can compound over the long term (instead of re learning the same thing with different conventions again and again).
 
 
+
+## No fancy and unwanted new features
+
+Another benefit of curating your own IDE with boring and proven tools is that you won't have surprises when there's a new version of it.
+
+With simple, boring and text based tools like emacs or vim you know that updates won't include anything and you can keep your environment exactly the same for decades. If you master your tool conventions, you can get compounding interest as you won't have to re learn micro operations
+
+
 ## It's all about removing micro distractions and making the tool work for you, not the opposite.
 
 I think having some sense of control over the tools we use daily is important and it's good to analyze our workflow and look for tooling that enables it and is not creating resistance every few minutes. 
 
 I'm not advocating for Emacs or vim or VSCode, I think the idea is that for critical and frequent tasks, the more aligned our tools are with the way our brain works the more mental energy we'll save for the really important stuff.
+
+
+## No fancy and unwanted new features
+
+Another benefit of curating your own IDE with boring and proven tools is that you won't have surprises when there's a new version of it.
+
+With simple, boring and text based tools like emacs or vim you know that updates won't include anything and you can keep your environment exactly the same for decades. If you master your tool conventions, you can get compounding interest as you won't have to re learn micro operations
