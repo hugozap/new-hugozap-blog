@@ -30,7 +30,7 @@ Whenever I write about something, I can detect some areas where my understanding
 
 Writing is thinking, and improving one's writing will have a direct impact on the ability to think in a clearer way.
 
-Do some short experiment. Pick one topic you think you already know and write a short paragraph about it. Maybe some questions will arise, maybe you will follow a new path based on some idea. The point is that the act of writing invites creativity and will open doors to more ideas and solution to problems.
+Do some quick experiment. Pick one topic you think you already know and write a short paragraph about it. Maybe some questions will arise, maybe you will follow a new path based on some idea. The point is that the act of writing invites creativity and will open doors to more ideas, solutions to problems or will inspire you to learn something else.
 
 ## Your experience and context is unique.
 
