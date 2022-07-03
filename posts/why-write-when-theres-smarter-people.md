@@ -1,5 +1,5 @@
 ---
-title: Why write about anything when there's smarter people than you?
+title: Why write about anything when there's people smarter than you?
 description: 
 date: 2022-07-02
 tags:
@@ -46,7 +46,7 @@ That's a big pressure for anyone who wants to publish something of their own. It
 
 I believe that there's a lot of room for genuine writing by normal people and a lot of people value authenticity (something that's very hard to do for a company even if they put lots of money on it).
 
-Ok, if you reached this far I hope you give it a try, go and start a new blog (or resume writing for your abandoned one) and just see what happens.
+Ok, if you reached this far I hope you give it a try, go and start a new blog (or resume writing for your abandoned one) and just see what happens. 
 
 I'll leave with some questions about this topic, maybe you can share your responses in your own blog ;)
 
