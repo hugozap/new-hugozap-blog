@@ -1,7 +1,7 @@
 ---
-title: Consraint solvers are fun
+title: Using Constraint Solvers with Rust and WebAssembly (Exploration)
 description: 
-date: 2021-01-21
+date: 2022-10-12
 tags:
   - software
   - rust
