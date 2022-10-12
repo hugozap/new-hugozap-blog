@@ -18,9 +18,7 @@ body {
   font-family:'IBM Plex sans', system-ui, sans-serif;
   color: var(--darkgray);
   background-color: rgb(255, 254, 247);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+
 }
 p:last-child {
   margin-bottom: 0;
