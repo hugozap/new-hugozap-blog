@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Yestarday I spent some time experimenting with linear constraint solvers using Rust and WebAssembly.
+Yesterday I spent some time experimenting with linear constraint solvers using Rust and WebAssembly.
 
 What is a constraint solver?
 
@@ -194,7 +194,9 @@ const runWasm = async () => {
   //to get the updated values
   app.update_locations();
   
-  //We didn't return the values from update_locations, just updated the memory with the values of interest, now we need to access the wasm memory space and retrieve them.
+  //We didn't return the values from update_locations,
+  //just updated the memory with the values of interest, 
+  //now we need to access the wasm memory space and retrieve them.
   const points_ptr = app.get_points();
   const points = new Float64Array(wasm.memory.buffer, points_ptr, 4);
   console.log({ points });
