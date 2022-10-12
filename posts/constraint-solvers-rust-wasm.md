@@ -17,10 +17,10 @@ The basic idea is that you specify a problem in terms of restrictions. This rest
 
 UI Layouts are a good fit for linear constraint systems, because you can express the relations among elements in terms of these linear expressions.
 
-`the top of the box2 element should be equal to the bottom of box3`
-`the x position of box4 should be equal to the total width/2`
-`the total width is >= than box2`
-`the total width is >= than box5`
+- the top of the box2 element should be equal to the bottom of box3
+- the x position of box4 should be equal to the total width/2
+- the total width is >= than box2
+- the total width is >= than box5
 
 When you have the set of expressions you ask the solver to generate a solution and it will try to produce an optimized set of values that satisfy the constraints.
 

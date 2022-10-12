@@ -2,7 +2,9 @@
 title: Craft? Science? Different cultures in knowledge-based activities.
 date: 2020-08-11
 tags:
-  - information, productivity, software
+  - information
+  - productivity
+  - software
 layout: layouts/post.njk
 ---
 

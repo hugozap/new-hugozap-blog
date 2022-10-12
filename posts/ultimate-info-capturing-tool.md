@@ -7,6 +7,13 @@ tags:
 layout: layouts/post.njk
 ---
 
+**2022 Update**
+
+I'm now using Obsidian and it has worked well for my note capture workflow.
+
+------
+
+
 A few years ago I gradually stopped using note-taking applications and switched to email for my information capturing needs and it has worked well. I'm mostly interested in saving observations, interesting links, diagrams, quotes,  and project ideas (not using it for structured notebooks).
 
 My initial approach was to use my personal email account and have an automatic filter that added the tag "notebook" to any email sent from myself. Later I switched to having a separate email account to use as my note vault. 
