@@ -62,24 +62,24 @@ The high level idea is:
 Our model only has 2 points, each point with a location. Note that we use Variable for the values, because they will be used by the solver.
 
 ```rust
-let mut names = HashMap::new();
-let window_width = Variable::new();
-names.insert(window_width, "window_width");
+    let mut names = HashMap::new();
+    let window_width = Variable::new();
+    names.insert(window_width, "window_width");
 
-let p1 = Point {
-    x: Variable::new(),
-    y: Variable::new(),
-};
+    let p1 = Point {
+        x: Variable::new(),
+        y: Variable::new(),
+    };
 
-let p2 = Point {
-    x: Variable::new(),
-    y: Variable::new(),
-};
+    let p2 = Point {
+        x: Variable::new(),
+        y: Variable::new(),
+    };
 
-names.insert(p1.x, "p1.x");
-names.insert(p1.y, "p1.y");
-names.insert(p2.x, "p2.x");
-names.insert(p2.y, "p2.y");
+    names.insert(p1.x, "p1.x");
+    names.insert(p1.y, "p1.y");
+    names.insert(p2.x, "p2.x");
+    names.insert(p2.y, "p2.y");
 ```
 
 
@@ -111,10 +111,10 @@ Here we populate a hash map with (name,value) pairs.
 
 
 ```rust
-let mut result = HashMap::new();
-        for (var, name) in names {
-            result.insert(String::from(name), solver.get_value(var));
-        }
+    let mut result = HashMap::new();
+    for (var, name) in names {
+        result.insert(String::from(name), solver.get_value(var));
+    }
 ```
 
 ## Testing that the solver works
@@ -122,20 +122,20 @@ let mut result = HashMap::new();
 Let's add a simple unit test to make sure we set the solver parameters correctly
 
 ```rust
-#[cfg(test)]
-mod tests {
-    use super::*;
+    #[cfg(test)]
+    mod tests {
+        use super::*;
 
-    #[test]
-    fn test_calculateLayout() {
-        let app = App::new();
-        let result = app.calculateLayout(); 
-        assert_eq!(result.get("p1.x"), Some(&0.0));
-        assert_eq!(result.get("p1.y"), Some(&0.0));
-        assert_eq!(result.get("p2.x"), Some(&100.0));
-        assert_eq!(result.get("p2.y"), Some(&50.0));
+        #[test]
+        fn test_calculateLayout() {
+            let app = App::new();
+            let result = app.calculateLayout(); 
+            assert_eq!(result.get("p1.x"), Some(&0.0));
+            assert_eq!(result.get("p1.y"), Some(&0.0));
+            assert_eq!(result.get("p2.x"), Some(&100.0));
+            assert_eq!(result.get("p2.y"), Some(&50.0));
+        }
     }
-}
 ```
 
 ## How to return the values to JS?
@@ -151,20 +151,20 @@ I'll use the 2nd approach because it's the fastest. In terms of performance we d
 To return the pointer we have this method
 
 ```rust
-#[wasm_bindgen]
-    pub fn get_points(&self) -> *const PointLocation {
-        self.points.as_ptr()
+    #[wasm_bindgen]
+        pub fn get_points(&self) -> *const PointLocation {
+            self.points.as_ptr()
     }
 ```
 
 PointLocation has this shape
 
 ```rust
-#[wasm_bindgen]
-struct PointLocation {
-    x: f64,
-    y: f64,
-}
+    #[wasm_bindgen]
+    struct PointLocation {
+        x: f64,
+        y: f64,
+    }
 ```
 
 ## Generating the WebAssembly package
@@ -182,26 +182,26 @@ This step is different for each bundler (vanilla JS is also supported).
 Now in my web application I can access the exported Rust structs and methods
 
 ```js
-import init, { App } from "rust-constraint-solver-wasm";
+    import init, { App } from "rust-constraint-solver-wasm";
 
-const runWasm = async () => {
-  //init will fetch our .wasm file
-  const wasm = await init();
-  //Let's create an instance of the exported App struct (defined in rust)
-  const app = new App();
+    const runWasm = async () => {
+    //init will fetch our .wasm file
+    const wasm = await init();
+    //Let's create an instance of the exported App struct (defined in rust)
+    const app = new App();
 
-  //the main method that will run the solver
-  //for demo purposes we are not passing any parameter. In real life 
-  //we should pass the initial values (e.g the width of the window, positions, etc)
-  //to get the updated values
-  app.update_locations();
-  
-  //We didn't return the values from update_locations,
-  //just updated the memory with the values of interest, 
-  //now we need to access the wasm memory space and retrieve them.
-  const points_ptr = app.get_points();
-  const points = new Float64Array(wasm.memory.buffer, points_ptr, 4);
-  console.log({ points });
+    //the main method that will run the solver
+    //for demo purposes we are not passing any parameter. In real life 
+    //we should pass the initial values (e.g the width of the window, positions, etc)
+    //to get the updated values
+    app.update_locations();
+    
+    //We didn't return the values from update_locations,
+    //just updated the memory with the values of interest, 
+    //now we need to access the wasm memory space and retrieve them.
+    const points_ptr = app.get_points();
+    const points = new Float64Array(wasm.memory.buffer, points_ptr, 4);
+    console.log({ points });
 };
 ```
 
