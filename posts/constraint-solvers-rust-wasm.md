@@ -205,3 +205,7 @@ const runWasm = async () => {
 
 When running the app you'll see in the log, the list of updated values.
 Not very exciting but this opens the opportunity to solve much more interesting problems that can be expressed with linear constraints.
+
+## What's next
+
+Now that we have a proof of concept, we could try creating layout systems for Canvas, WebGL. I see some potential for layout systems that offer a more natural way to arrange elements. 
