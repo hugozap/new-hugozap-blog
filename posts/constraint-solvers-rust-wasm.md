@@ -11,6 +11,8 @@ layout: layouts/post.njk
 
 Yesterday I spent some time experimenting with linear constraint solvers using Rust and WebAssembly.
 
+([Demo repository](https://github.com/hugozap/rust-constraint-solver-wasm-demo))
+
 What is a constraint solver?
 
 The basic idea is that you specify a problem in terms of restrictions. This restrictions should be expressed as linear expressions.
