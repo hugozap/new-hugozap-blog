@@ -9,9 +9,9 @@ eleventyNavigation:
 
 Hi, I'm Hugo.
 
-I build tools for managing information.
+I'm a Software Engineer currently living in Bogotá. I've worked in different industries and roles with technologies like Node.js, React, AWS, Rust and others. I'm currently interested in building tools for helping people to be more productive and creative.  I'm optimist about the future and I believe technology can help us to solve some of the problems we face.
 
-I'm currently working on the[Diagram Codes](https://diagram.codes) platform. A set of tools (Web and [Desktop](studio.diagram.codes)) for creating diagrams using a simple text language.
+I'm currently learning about WebAssembly, Rust and other technologies that I believe will transform the way we create software.
 
 You can find me on twitter: [@hugozap](https://twitter.com/hugozap)
 
