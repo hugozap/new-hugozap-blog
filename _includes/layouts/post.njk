@@ -7,3 +7,12 @@ templateClass: tmpl-post
 {{ content | safe }}
 
 <p><a href="{{ '/' | url }}">← Home</a></p>
+
+<aside class="tags-section">
+  <h2>Tags</h2>
+  <ul>
+    {% for tag in tags %}
+      <li><a href="/tags/{{ tag | slug }}">{{ tag }}</a></li>
+    {% endfor %}
+  </ul>
+</aside>

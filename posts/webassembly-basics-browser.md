@@ -5,7 +5,6 @@ date: 2022-11-02
 tags:
     - software
     - rust
-    - webassembly
     - wasm
 
 layout: layouts/post.njk

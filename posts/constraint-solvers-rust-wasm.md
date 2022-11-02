@@ -6,6 +6,7 @@ tags:
   - software
   - rust
   - ui
+  - wasm
 layout: layouts/post.njk
 ---
 
