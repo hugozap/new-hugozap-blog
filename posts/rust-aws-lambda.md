@@ -112,6 +112,8 @@ The parameters defined by this template are:
 1. BucketName: The name of the S3 bucket where the Lambda deployment package is located
 2. PathToLambdaZip: Local path to the zip package created before
 
+** Note: I put the cloudformation template in a file called in the path: cloud-formation/rust-lambda.yaml inside my Rust project, this path will be needed create the stack later **
+
 
 ```yaml
 AWSTemplateFormatVersion: '2010-09-09'
