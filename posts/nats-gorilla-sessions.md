@@ -19,7 +19,7 @@ Turns out building one for it was not hard thanks to the easy to implement goril
 
 Usage:
 
-```golang
+```go
 import "github.com/hugozap/natsstore"
 
 
