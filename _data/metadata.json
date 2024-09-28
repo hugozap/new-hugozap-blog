@@ -1,9 +1,9 @@
 {
-  "title": "Removing layers",
+  "title": "hugozap",
   "url": "https://www.hugozap.com",
   "description": "A collection of random notes about life",
   "feed": {
-    "subtitle": "Hugo Zapata blog.",
+    "subtitle": "hugozap blog.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://hugozap.com/"
