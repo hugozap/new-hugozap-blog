@@ -1,14 +1,13 @@
 ---
 title: Using NATS(JetStream) as Gorilla session provider in Go
 description: 
-date: 2022-01-01
+date: 2024-09-28
 tags:
   - golang
   - nats
   - software
 layout: layouts/post.njk
 ---
-
 
 For a fun side project I'm using NATS, specifically JetStream, its key value storage engine.
 
